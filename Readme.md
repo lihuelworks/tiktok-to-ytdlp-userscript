@@ -1,4 +1,4 @@
-## 🔗 [Link to install script on Greasyfork](https://greasyfork.org/en/scripts/488295-tiktok-get-list-of-tiktok-links)
+## <a href="https://greasyfork.org/en/scripts/488295-tiktok-get-list-of-tiktok-links" target="_blank">🔗 Link to install script on Greasyfork</a>
 
 ## Tiktok - Get list of tiktok links
 Adds a simple button to the start of Tiktok page element with id "app-header". The button triggers a link that scrolls through the playlist, tiktok profile, etc and gives you a list of tiktok links that you can iterate with something like [yt-dlp](https://github.com/yt-dlp/):
