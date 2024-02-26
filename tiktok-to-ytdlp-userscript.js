@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tiktok - Get list of tiktok links
 // @namespace    Violentmonkey Scripts
-// @version      0.1
+// @version      0.2
 // @license CC-BY-NC-SA-4.0
 // @run-at document-end
 // @icon https://www.tiktok.com/favicon.ico
