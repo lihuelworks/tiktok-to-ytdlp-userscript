@@ -2,8 +2,10 @@
 // @name         Tiktok - Get list of tiktok links
 // @namespace    Violentmonkey Scripts
 // @version      0.1
+// @license CC-BY-NC-SA-4.0
+// @run-at document-end
 // @description  Adds a button to TikTok to get a list of all tiktok video links (e.g from a tiktok profile) to use in yt-dlp (Scroll an list link download code is by Dinoosauro https://github.com/Dinoosauro/tiktok-to-ytdlp)
-// @author       You (with code from Dinoosauro's https://github.com/Dinoosauro/tiktok-to-ytdlp)
+// @author       Lihuelworks (with code from Dinoosauro's https://github.com/Dinoosauro/tiktok-to-ytdlp)
 // @match        https://www.tiktok.com/*
 // @grant        none
 // ==/UserScript==
