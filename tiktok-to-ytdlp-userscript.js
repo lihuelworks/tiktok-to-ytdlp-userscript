@@ -16,7 +16,7 @@
         // Create a button element
         let downloadButton = document.createElement('button');
 
-        downloadButton.textContent = 'Download TikTok Videos';
+        downloadButton.textContent = 'Get list of TikTok links';
         downloadButton.style.order = '-1';
         // Get the div with id "app-header"
         let appHeader = document.getElementById('app-header');
