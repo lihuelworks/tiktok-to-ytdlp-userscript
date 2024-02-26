@@ -5,6 +5,7 @@
 // @license CC-BY-NC-SA-4.0
 // @run-at document-end
 // @icon https://www.tiktok.com/favicon.ico
+// @homepageURL https://github.com/lihuelworks/tiktok-to-ytdlp-userscript
 // @description  Adds a button to TikTok to get a list of all tiktok video links (e.g from a tiktok profile) to use in yt-dlp (Scroll an list link download code is by Dinoosauro https://github.com/Dinoosauro/tiktok-to-ytdlp)
 // @author       Lihuelworks (with code from Dinoosauro's https://github.com/Dinoosauro/tiktok-to-ytdlp)
 // @match        https://www.tiktok.com/*
